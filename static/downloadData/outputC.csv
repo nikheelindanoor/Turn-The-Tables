@@ -1,5 +1,11 @@
-,0,1,2
-0, Company, Founder, Year
-1, Microsoft, Bill Gates, 1975
-2, Amazon, Jeff Bezos, 1994
-3, Facebook, Mark Zuckerberg, 2004
+,0,1,2,3
+0, Name, Email, Age, Status
+1, Leanne Graham, Sincere@april.biz, 28, Active
+2, Ervin Howell, Shanna@melissa.tv, 35, Active
+3, Clementine Bauch, Nathan@yesenia.net, 33, Inactive
+4, Patricia Lebsack, Julianne@kory.org, 25, Active
+5, Kamren, Hettinger@annie.ca, 42, Active
+6, Dennis Schulist, Dach@jasper.info, 34, Inactive
+7, Kurtis Weissnat, Hoeger@billy.biz, 44, Active
+8, Maxime Nienow, Sherwood@rosamond.me, 26, Active
+9, Glenna Reichert, McDermott@dana.io, 30, Inactive
